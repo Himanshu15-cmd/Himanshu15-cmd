@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 I am a final-year B.Tech CSE student with a strong focus on backend development, DSA, and building efficient, scalable systems. I enjoy solving real-world problems using logical thinking and practical engineering approaches. Skilled in C++, Python, JavaScript, SQL, and other modern tools. My goal is to grow as an SDE and contribute to impactful technology solutions.
 
